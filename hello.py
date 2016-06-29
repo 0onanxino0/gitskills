@@ -6,3 +6,5 @@ for i in range(0,10):
         print "smaller than 5"
 
 print 'hello world'
+
+print 'hello world'
